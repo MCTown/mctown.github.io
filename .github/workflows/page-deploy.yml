@@ -30,11 +30,13 @@ jobs:
         # uses: peaceiris/actions-hugo@2e89aa66d0093e4cd14751b3028fc1a179452c2e
         uses: peaceiris/actions-hugo@v2.4.13
         with:
+          # The Hugo version to download (if necessary) and use. Example: 0.58.2
+          hugo-version: 0.91.0
           # Download (if necessary) and use Hugo extended version. Example: true
           extended: true
           
       - name: Build site
-        run: hugo
+        run: HUGO_ENV="production" hugo --gc
           
       - name: GitHub Pages action
         # You may pin to the exact commit or the version.
