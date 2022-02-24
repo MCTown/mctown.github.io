@@ -32,8 +32,12 @@ jobs:
           
       - name: Build site
         run: |
+          git submodule update --init --recursive
           npm install
-          HUGO_ENV="production" ./hugo --gc
+          npm install -D autoprefixer
+          npm install -D postcss-cli
+          npm install -D postcss
+          ./hugo
           
       - name: GitHub Pages action
         # You may pin to the exact commit or the version.
