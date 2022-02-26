@@ -7,6 +7,10 @@ menu:
     weight: 20
 ---
 
+{{% pageinfo %}}
+MCTown服务器文档
+{{% /pageinfo %}}
+
 {{% alert color="warning" %}}
 DOC IS A WIP. PLZ CONTRIBUTE!
 {{% /alert %}}

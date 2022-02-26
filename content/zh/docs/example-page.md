@@ -7,7 +7,7 @@ weight: 1000
 ---
 
 {{% pageinfo %}}
-Quick reference when constructing.
+Quick reference when constructing. Please delete this when done.
 {{% /pageinfo %}}
 
 
