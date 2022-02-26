@@ -12,10 +12,9 @@
 &lt;h4 id="服务器信息">服务器信息&lt;/h4>
 &lt;ul>
 &lt;li>服务器使用1.18.1作为主要版本&lt;/li>
-&lt;li>一个纯净公益服务器，属于养老生存服，没有经济，没有插件，全部使用原版机制&lt;/li>
 &lt;li>并不追求好几百人在线，只是想将志同道合的人聚集到一起罢了&lt;/li>
-&lt;li>这里没有任何规则可言，但也不是2b2t那样的混乱服务器，所有的事务与建设均由服务期内成员规划&lt;/li>
-&lt;li>服务器不设置有OP，只有一个旁观者模式的账号可提供给玩家使用，其余账号均为生存模式&lt;/li>
+&lt;li>这里没有任何规则可言，所有的事务与建设均由服务期内成员规划&lt;/li>
+&lt;li>服务器OP无作弊，其余账号均为生存模式&lt;/li>
 &lt;li>服务器内日志和存档会在服务器正式关停的时候发布，不需要担心管理员作弊与失去存档&lt;/li>
 &lt;/ul>
 &lt;h4 id="入服需知">入服需知&lt;/h4>
@@ -26,8 +25,17 @@
 &lt;li>我尽量会听取各位的意见，也尽量把这个服务器运营下去
 但由于时间实在紧张，希望各位能够积极参与其中，帮忙做一些力所能及的小事，希望各位游玩愉快&lt;/li>
 &lt;/ol>
-&lt;p>&lt;em>&lt;strong>加入QQ审核群 661013570，答题8正确率大于80%即可获得白名单&lt;/strong>&lt;/em>&lt;/p></description></item><item><title>Docs: 特性</title><link>https://mctown.github.io/landing/docs/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/features/</guid><description>
-&lt;p>WIP WIP WIP WIP&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p></description></item><item><title>Docs: FAQ</title><link>https://mctown.github.io/landing/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/faq/</guid><description>
+&lt;p>&lt;em>&lt;strong>加入QQ审核群 661013570，答题正确率大于80%即可获得白名单&lt;/strong>&lt;/em>&lt;/p></description></item><item><title>Docs: 特性</title><link>https://mctown.github.io/landing/docs/feature/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/feature/</guid><description>
+&lt;p>WIP WIP WIP WIP&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p></description></item><item><title>Docs: 地址</title><link>https://mctown.github.io/landing/docs/address/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/address/</guid><description>
+&lt;div class="pageinfo pageinfo-primary">
+&lt;p>WIPWIPWIP&lt;/p>
+&lt;/div>
+&lt;ol>
+&lt;li>生存服: s.mctown.tech:25565&lt;/li>
+&lt;li>生存服(BE): s.mctown.tech:????&lt;/li>
+&lt;li>生存服(Dynmap): &lt;a href="http://s.mctown.tech:8123">http://s.mctown.tech:8123&lt;/a>&lt;/li>
+&lt;li>创造服: c.mctown.tech:25565&lt;/li>
+&lt;/ol></description></item><item><title>Docs: FAQ</title><link>https://mctown.github.io/landing/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/faq/</guid><description>
 &lt;blockquote>
 &lt;p>Q:作为新人我无法融入服务器该怎么办？
 A:经常参与群聊讨论或者帮助工程建设，尽量多说话，人数不多，很容易混熟&lt;/p>
@@ -38,7 +46,7 @@ A:在版本大更新后大部分成员决定换周目时将放出存档和备份
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>Q:死亡掉落吗？
-A:死亡后会生成墓碑，防止物品掉落 见&lt;a href="https://mctown.github.io/landing/landing/docs/features/">服务器特性&lt;/a>&lt;/p>
+A:死亡后会生成墓碑，防止物品掉落 见&lt;a href="https://mctown.github.io/landing/landing/docs/feature/">服务器特性&lt;/a>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>Q:服务器关闭吗？
