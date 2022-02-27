@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MCTown – 文档</title><link>https://mctown.github.io/landing/docs/</link><description>Recent content in 文档 on MCTown</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://mctown.github.io/landing/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 加入服务器</title><link>https://mctown.github.io/landing/docs/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/join/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MCTown – 文档</title><link>https://mctown.tech/docs/</link><description>Recent content in 文档 on MCTown</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://mctown.tech/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 加入服务器</title><link>https://mctown.tech/docs/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.tech/docs/join/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>欢迎各位大佬的加入&lt;/p>
 &lt;/div>
@@ -25,8 +25,8 @@
 &lt;li>我尽量会听取各位的意见，也尽量把这个服务器运营下去
 但由于时间实在紧张，希望各位能够积极参与其中，帮忙做一些力所能及的小事，希望各位游玩愉快&lt;/li>
 &lt;/ol>
-&lt;p>&lt;em>&lt;strong>加入QQ审核群 661013570，答题正确率大于80%即可获得白名单&lt;/strong>&lt;/em>&lt;/p></description></item><item><title>Docs: 特性</title><link>https://mctown.github.io/landing/docs/feature/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/feature/</guid><description>
-&lt;p>WIP WIP WIP WIP&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p></description></item><item><title>Docs: 地址</title><link>https://mctown.github.io/landing/docs/address/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/address/</guid><description>
+&lt;p>&lt;em>&lt;strong>加入QQ审核群 661013570，答题正确率大于80%即可获得白名单&lt;/strong>&lt;/em>&lt;/p></description></item><item><title>Docs: 特性</title><link>https://mctown.tech/docs/feature/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.tech/docs/feature/</guid><description>
+&lt;p>WIP WIP WIP WIP&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p></description></item><item><title>Docs: 地址</title><link>https://mctown.tech/docs/address/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.tech/docs/address/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>WIPWIPWIP&lt;/p>
 &lt;/div>
@@ -35,7 +35,7 @@
 &lt;li>生存服(BE): s.mctown.tech:????&lt;/li>
 &lt;li>生存服(Dynmap): &lt;a href="http://s.mctown.tech:8123">http://s.mctown.tech:8123&lt;/a>&lt;/li>
 &lt;li>创造服: c.mctown.tech:25565&lt;/li>
-&lt;/ol></description></item><item><title>Docs: FAQ</title><link>https://mctown.github.io/landing/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/faq/</guid><description>
+&lt;/ol></description></item><item><title>Docs: FAQ</title><link>https://mctown.tech/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.tech/docs/faq/</guid><description>
 &lt;blockquote>
 &lt;p>Q:作为新人我无法融入服务器该怎么办？
 A:经常参与群聊讨论或者帮助工程建设，尽量多说话，人数不多，很容易混熟&lt;/p>
@@ -46,13 +46,13 @@ A:在版本大更新后大部分成员决定换周目时将放出存档和备份
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>Q:死亡掉落吗？
-A:死亡后会生成墓碑，防止物品掉落 见&lt;a href="https://mctown.github.io/landing/landing/docs/feature/">服务器特性&lt;/a>&lt;/p>
+A:死亡后会生成墓碑，防止物品掉落 见&lt;a href="https://mctown.tech/docs/feature/">服务器特性&lt;/a>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>Q:服务器关闭吗？
 A:不关闭，但会换周目(视情况而定)&lt;/p>
-&lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://mctown.github.io/landing/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/changelog/</guid><description>
-&lt;p>WIPWIPWIP&lt;/p></description></item><item><title>Docs: Example Page</title><link>https://mctown.github.io/landing/docs/example-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.github.io/landing/docs/example-page/</guid><description>
+&lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://mctown.tech/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.tech/docs/changelog/</guid><description>
+&lt;p>WIPWIPWIP&lt;/p></description></item><item><title>Docs: Example Page</title><link>https://mctown.tech/docs/example-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mctown.tech/docs/example-page/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>Quick reference when constructing. Please delete this when done.&lt;/p>
 &lt;/div>
