@@ -74,20 +74,24 @@
 &lt;li>创造服: c.mctown.tech:25565&lt;/li>
 &lt;/ol></description></item><item><title>Docs: FAQ</title><link>https://www.mctown.tech/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/faq/</guid><description>
 &lt;blockquote>
-&lt;p>Q:作为新人我无法融入服务器该怎么办？
-A:经常参与群聊讨论或者帮助工程建设，尽量多说话，人数不多，很容易混熟&lt;/p>
+&lt;p>Q:作为新人我无法融入服务器该怎么办？&lt;/p>
+&lt;p>A:经常参与群聊讨论或者帮助工程建设，尽量多说话，人数不多，很容易混熟&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
-&lt;p>Q:服务器是否会删档？
-A:在版本大更新后大部分成员决定换周目时将放出存档和备份并重开地图&lt;/p>
+&lt;p>Q:服务器是否会删档？&lt;/p>
+&lt;p>A:在版本大更新后大部分成员决定换周目时将放出存档和备份并重开地图&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
-&lt;p>Q:死亡掉落吗？
-A:死亡后会生成墓碑，防止物品掉落 见&lt;a href="https://www.mctown.tech/docs/feature/">服务器特性&lt;/a>&lt;/p>
+&lt;p>Q:死亡掉落吗？&lt;/p>
+&lt;p>A:死亡后会生成墓碑，防止物品掉落 见&lt;a href="https://www.mctown.tech/docs/feature/">服务器特性&lt;/a>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
-&lt;p>Q:服务器关闭吗？
-A:不关闭，但会换周目(视情况而定)&lt;/p>
+&lt;p>Q:服务器关闭吗？&lt;/p>
+&lt;p>A:不关闭，但会换周目(视情况而定)&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Q:服务器视距低&lt;/p>
+&lt;p>A:资金限制，请视距低的玩家下载&lt;a href="https://www.modrinth.com/mod/bobby">bobby&lt;/a>模组提升视距&lt;/p>
 &lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://www.mctown.tech/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/changelog/</guid><description>
 &lt;p>详见：https://shimo.im/docs/XCHRDcvk3YDtKWhk&lt;/p></description></item><item><title>Docs: Example Page</title><link>https://www.mctown.tech/docs/example-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/example-page/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
