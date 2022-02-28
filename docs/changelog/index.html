@@ -20,11 +20,11 @@
 <meta property="og:description" content="更新日志">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.mctown.tech/docs/changelog/"><meta property="article:section" content="docs">
-<meta property="article:modified_time" content="2022-02-27T17:21:08+08:00"><meta property="og:site_name" content="MCTown">
+<meta property="article:modified_time" content="2022-02-28T19:48:28+08:00"><meta property="og:site_name" content="MCTown">
 <meta itemprop=name content="更新日志">
 <meta itemprop=description content="更新日志">
-<meta itemprop=dateModified content="2022-02-27T17:21:08+08:00">
-<meta itemprop=wordCount content="1">
+<meta itemprop=dateModified content="2022-02-28T19:48:28+08:00">
+<meta itemprop=wordCount content="135">
 <meta itemprop=keywords content><meta name=twitter:card content="summary">
 <meta name=twitter:title content="更新日志">
 <meta name=twitter:description content="更新日志">
@@ -89,6 +89,30 @@
 <a href="https://github.com/mctown/landing/issues/new?title=%e6%9b%b4%e6%96%b0%e6%97%a5%e5%bf%97" class=td-page-meta--issue target=_blank rel=noopener><i class="fab fa-github fa-fw"></i> </a>
 <a id=print href=https://www.mctown.tech/docs/_print/><i class="fa fa-print fa-fw"></i> </a>
 </div>
+<div class=td-toc><nav id=TableOfContents>
+<ul>
+<li>
+<ul>
+<li><a href=#2022219>2022.2.19</a></li>
+<li><a href=#2022211>2022.2.11</a></li>
+<li><a href=#202222>2022.2.2</a></li>
+<li><a href=#2022115>2022.1.15</a></li>
+<li><a href=#2021828>2021.8.28</a></li>
+<li><a href=#2021825>2021.8.25</a></li>
+<li><a href=#2021823>2021.8.23</a></li>
+<li><a href=#2021811>2021.8.11</a></li>
+<li><a href=#202187>2021.8.7</a></li>
+<li><a href=#2021731>2021.7.31</a></li>
+<li><a href=#2021726>2021.7.26</a></li>
+<li><a href=#2021724>2021.7.24</a></li>
+<li><a href=#2021719>2021.7.19</a></li>
+<li><a href=#2021716>2021.7.16</a></li>
+<li><a href=#2021715>2021.7.15</a></li>
+<li><a href=#2021713>2021.7.13</a></li>
+</ul>
+</li>
+</ul>
+</nav></div>
 </aside>
 <main class="col-12 col-md-9 col-xl-8 pl-md-5" role=main>
 <nav aria-label=breadcrumb class=td-breadcrumbs>
@@ -106,9 +130,115 @@
 <div class=lead>更新日志</div>
 <header class=article-meta>
 </header>
-<p>详见：https://shimo.im/docs/XCHRDcvk3YDtKWhk</p>
+<h3 id=2022219>2022.2.19</h3>
+<ul>
+<li>修复刷沙机失效的BUG By YiCao</li>
+<li>修复假人生成墓碑的BUG</li>
+<li>重新上线网页地图，IP见公告群</li>
+<li>增加了钓鱼次数的排行榜</li>
+<li>若对服务端有什么建议可以在<a href="https://docs.qq.com/form/page/DS0FteFlWT1F2ZW1O?_w_tencentdocx_form=1">这里</a>提出，会尽量实现</li>
+</ul>
+<h3 id=2022211>2022.2.11</h3>
+<ul>
+<li>修复了假人无敌的BUG By YiCao</li>
+<li>部分优化部分服务器性能</li>
+<li>更新一大堆mod</li>
+<li>掉落虚空不再生成墓碑！</li>
+</ul>
+<h3 id=202222>2022.2.2</h3>
+<ul>
+<li>添加了对minihud结构显示的支持</li>
+<li>修复了潜声传感器无法合成的BUG</li>
+</ul>
+<h3 id=2022115>2022.1.15</h3>
+<ul>
+<li>添加了卫星地图的标记指令<br>
+增加指令：/dmarker add &lt;名称><br>
+删除指令：/dmarker delete &lt;名称><br>
+标记后会在卫星地图上显示</li>
+<li>添加了潜声传感器的合成配方</li>
+</ul>
+<h3 id=2021828>2021.8.28</h3>
+<p>测试卫星地图：http://162.14.81.178:8123 (备案危机)</p>
+<h3 id=2021825>2021.8.25</h3>
+<ul>
+<li>增加了玩家墓碑的功能<br>
+玩家死亡后将生成一个墓碑<br>
+5分钟内只能由该玩家自己打开<br>
+5~15分钟内所有人都可打开<br>
+15分钟后墓碑将自毁并掉落物品（洒落）<br>
+掉岩浆后也会生成墓碑<br>
+墓碑自毁后5分钟后物品永久消失（区块被加载）<br>
+掉落虚空不生成墓碑！<br>
+警告：在墓碑没有摧毁之前即使区块未加载也会计时</li>
+<li>修复了击杀bot生成墓碑的BUG</li>
+</ul>
+<h3 id=2021823>2021.8.23</h3>
+<p>鉴于目前人数逐渐增多，审核题目外泄风险增大，现开始征集新题目</p>
+<p><del>征集链接</del>
+已征集完毕</p>
+<h3 id=2021811>2021.8.11</h3>
+<ul>
+<li>炸服活动圆满结束，感谢各位参与</li>
+<li>增加了一些说明</li>
+<li>现可使用/flex发送手中物品至聊天栏</li>
+</ul>
+<h3 id=202187>2021.8.7</h3>
+<ul>
+<li>8月10号（一周月）炸服 <del>(想怎么熊服怎么熊，机器全扬了都没事，说不定还会表扬你)炸完后会回档，趁这个机会把主城炸了</del></li>
+<li>TPS显示方法更改为：开启：输入/log tps<br>
+关闭：再次输入/log tps或/log clear</li>
+</ul>
+<h3 id=2021731>2021.7.31</h3>
+<p>添加附魔金苹果的合成配方</p>
+<h3 id=2021726>2021.7.26</h3>
+<ul>
+<li>将服务端更换至 fabric</li>
+<li>调整展示框由 shift+右键变为 shift+左键</li>
+<li>末地死亡掉落 <del>已经有 18 名玩家跳虚空了</del></li>
+</ul>
+<h3 id=2021724>2021.7.24</h3>
+<p>添加了查看 TPS 的命令:<br>
+<del>指令: 查看 TPS&lt;显示为 TAB 栏> /tabtps toggle tab<br>
+查看 TPS&lt;显示为 Bossbar 栏> /tabtps toggle bossbar<br>
+查看 TPS&lt;显示为物品栏> /tabtps toggle actionbar</del><br>
+更换为carpet的tps显示/log tps开启</p>
+<h3 id=2021719>2021.7.19</h3>
+<p>为避免玩家过度拿取资源的情况，现公开所有成员背包信息<br>
+指令: 查看背包 /view &lt;玩家名><br>
+查看末影箱 /enderview &lt;玩家名><br>
+仅管理员可查看<br>
+服务器是公有制，没有必要藏东西</p>
+<h3 id=2021716>2021.7.16</h3>
+<ul>
+<li>添加了鞘翅的合成表</li>
+<li>有一项秘密的烧制表，不会影响平衡但是十分实用<br>
+（其实这两项早就有了只是没人发现）</li>
+<li>恢复原版漏斗机制</li>
+<li>名字颜色申请<br>
+白名-通过了审核的玩家<br>
+蓝名-认证为正版，需要申请<br>
+金名-审核考试满分（目前仅两人达到 125 分）<br>
+绿名-服务器二周目玩家<br>
+粉名-服务器捐献者，需要申请(见此)<br>
+紫名-对服务器有卓越贡献，需要申请(见此)<br>
+青名-顶帖评分并使用服务器提升卡，需要申请</li>
+<li>移除了黑名/灰名<br>
+集齐所有颜色(除了绿色)获得黑色<br>
+宣传贴: <a href=https://www.mcbbs.net/thread-1212339-1-1.html>https://www.mcbbs.net/thread-1212339-1-1.html</a><br>
+想换名字颜色的找@Apricityx_</li>
+</ul>
+<h3 id=2021715>2021.7.15</h3>
+<ul>
+<li>修复区块加载不出来的BUG</li>
+<li>修复玩家进入地狱门/末地门卡死的问题</li>
+</ul>
+<h3 id=2021713>2021.7.13</h3>
+<p>现在服务器支持展示框编辑了<br>
+<del>右键+shift</del> 空手点击物品展示框可设置展示框的属性(可见)<br>
+改为左键+shift</p>
 <div class="text-muted mt-5 pt-3 border-top">
-February 27, 2022: <a href=https://github.com/mctown/landing/commit/e1de3530be34eabf43d797f56ddaa6a343811473>c (e1de353)</a>
+February 28, 2022: <a href=https://github.com/mctown/landing/commit/0ca6726b85388d87760be139292a6f4c3a2450e4>Update changelog.md (0ca6726)</a>
 </div>
 </div>
 </main>
