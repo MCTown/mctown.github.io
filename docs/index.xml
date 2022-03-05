@@ -64,16 +64,14 @@
 &lt;p>可右键告示牌来编辑文字&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Docs: 地址</title><link>https://www.mctown.tech/docs/address/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/address/</guid><description>
-&lt;div class="pageinfo pageinfo-primary">
-&lt;p>需要补充&lt;/p>
-&lt;/div>
-&lt;ol>
+&lt;ul>
 &lt;li>生存服: &lt;code>s.mctown.tech:25565&lt;/code>&lt;/li>
 &lt;li>生存服(BE): &lt;code>s.mctown.tech:19132&lt;/code>&lt;/li>
-&lt;li>&lt;del>生存服(Dynmap): &lt;a href="http://s.mctown.tech:8123">&lt;code>http://s.mctown.tech:8123&lt;/code>&lt;/a>&lt;/del> 备案危机&lt;/li>
+&lt;li>生存服(Dynmap): &lt;a href="http://162.14.81.178:8123">&lt;code>http://162.14.81.178:8123&lt;/code>&lt;/a> &lt;del>备案危机&lt;/del>&lt;/li>
 &lt;li>创造服: &lt;code>c.mctown.tech:25565&lt;/code>&lt;/li>
 &lt;li>创造服(BE): &lt;code>c.mctown.tech:19132&lt;/code>&lt;/li>
-&lt;/ol></description></item><item><title>Docs: FAQ</title><link>https://www.mctown.tech/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/faq/</guid><description>
+&lt;li>论坛: &lt;a href="https://f.mctown.tech/">&lt;code>https://f.mctown.tech/&lt;/code>&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Docs: FAQ</title><link>https://www.mctown.tech/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/faq/</guid><description>
 &lt;blockquote>
 &lt;p>Q:作为新人我无法融入服务器该怎么办？&lt;/p>
 &lt;p>A:经常参与群聊讨论或者帮助工程建设，尽量多说话，人数不多，很容易混熟&lt;/p>
@@ -94,6 +92,8 @@
 &lt;p>Q:服务器视距低&lt;/p>
 &lt;p>A:资金限制，请视距低的玩家下载&lt;a href="https://www.modrinth.com/mod/bobby">bobby&lt;/a>模组提升视距&lt;/p>
 &lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://www.mctown.tech/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/changelog/</guid><description>
+&lt;h3 id="202236">2022.3.6&lt;/h3>
+&lt;p>MCT论坛开放&lt;/p>
 &lt;h3 id="2022219">2022.2.19&lt;/h3>
 &lt;ul>
 &lt;li>修复刷沙机失效的BUG By YiCao&lt;/li>
