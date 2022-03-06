@@ -93,11 +93,13 @@
 &lt;p>A:资金限制，请视距低的玩家下载&lt;a href="https://www.modrinth.com/mod/bobby">bobby&lt;/a>模组提升视距&lt;/p>
 &lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://www.mctown.tech/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/changelog/</guid><description>
 &lt;h3 id="202236">2022.3.6&lt;/h3>
-&lt;p>-MCDR已安装
+&lt;ul>
+&lt;li>MCDR已安装
 使用!!qb make &amp;lt;原因&amp;gt; 来备份
 使用!!qb back 来回档
 警告：在征求其他人意见后再进行备份/回档操作，回档会重启服务器并记录回档者，该操作不可逆！
-MCT论坛开放&lt;/p>
+MCT论坛开放&lt;/li>
+&lt;/ul>
 &lt;h3 id="2022219">2022.2.19&lt;/h3>
 &lt;ul>
 &lt;li>修复刷沙机失效的BUG By YiCao&lt;/li>
