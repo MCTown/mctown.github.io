@@ -63,14 +63,21 @@
 &lt;li>
 &lt;p>可右键告示牌来编辑文字&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>Docs: 地址</title><link>https://www.mctown.tech/docs/address/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/address/</guid><description>
+&lt;/ul></description></item><item><title>Docs: 信息</title><link>https://www.mctown.tech/docs/info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/info/</guid><description>
+&lt;ul>
+&lt;li>版本: &lt;code>1.18.2&lt;/code>&lt;/li>
+&lt;li>生存服种子: &lt;a href="https://www.chunkbase.com/apps/seed-map#4166314553134823845">&lt;code>4166314553134823845&lt;/code>&lt;/a>&lt;/li>
+&lt;li>创造服请自行使用&lt;code>!!op&lt;/code>获取op权限&lt;/li>
+&lt;/ul>
+&lt;h4 id="urls">URLs&lt;/h4>
 &lt;ul>
 &lt;li>生存服: &lt;code>s.mctown.tech:25565&lt;/code>&lt;/li>
 &lt;li>生存服(BE): &lt;code>s.mctown.tech:19132&lt;/code>&lt;/li>
-&lt;li>生存服(Dynmap): &lt;a href="http://162.14.81.178:8123">&lt;code>http://162.14.81.178:8123&lt;/code>&lt;/a> &lt;del>备案危机&lt;/del>&lt;/li>
+&lt;li>生存服(Dynmap): &lt;a href="http://162.14.81.178:8123">http://162.14.81.178:8123&lt;/a>&lt;/li>
 &lt;li>创造服: &lt;code>c.mctown.tech:25565&lt;/code>&lt;/li>
 &lt;li>创造服(BE): &lt;code>c.mctown.tech:19132&lt;/code>&lt;/li>
-&lt;li>论坛: &lt;a href="https://f.mctown.tech/">&lt;code>https://f.mctown.tech/&lt;/code>&lt;/a>&lt;/li>
+&lt;li>创造服(Dynmap): &lt;a href="http://182.43.87.30:8123">http://182.43.87.30:8123&lt;/a>&lt;/li>
+&lt;li>论坛: &lt;a href="https://f.mctown.tech/">https://f.mctown.tech/&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: FAQ</title><link>https://www.mctown.tech/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/faq/</guid><description>
 &lt;blockquote>
 &lt;p>Q:作为新人我无法融入服务器该怎么办？&lt;/p>
