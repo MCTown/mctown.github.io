@@ -99,6 +99,10 @@
 &lt;p>Q:服务器视距低&lt;/p>
 &lt;p>A:资金限制，请视距低的玩家下载&lt;a href="https://www.modrinth.com/mod/bobby">bobby&lt;/a>模组提升视距&lt;/p>
 &lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://www.mctown.tech/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/changelog/</guid><description>
+&lt;h3 id="2022321">2022.3.21&lt;/h3>
+&lt;ul>
+&lt;li>安装chat-bridge实现服务器聊天互通&lt;/li>
+&lt;/ul>
 &lt;h3 id="2022311">2022.3.11&lt;/h3>
 &lt;ul>
 &lt;li>全面升级服务端为1.18.2，有BUG欢迎反馈！&lt;/li>
@@ -140,7 +144,9 @@
 &lt;li>添加了潜声传感器的合成配方&lt;/li>
 &lt;/ul>
 &lt;h3 id="2021828">2021.8.28&lt;/h3>
-&lt;p>测试卫星地图：http://162.14.81.178:8123 (备案危机)&lt;/p>
+&lt;ul>
+&lt;li>测试卫星地图：http://162.14.81.178:8123 (备案危机)&lt;/li>
+&lt;/ul>
 &lt;h3 id="2021825">2021.8.25&lt;/h3>
 &lt;ul>
 &lt;li>增加了玩家墓碑的功能&lt;br>
@@ -155,9 +161,13 @@
 &lt;li>修复了击杀bot生成墓碑的BUG&lt;/li>
 &lt;/ul>
 &lt;h3 id="2021823">2021.8.23&lt;/h3>
+&lt;ul>
+&lt;li>
 &lt;p>鉴于目前人数逐渐增多，审核题目外泄风险增大，现开始征集新题目&lt;/p>
 &lt;p>&lt;del>征集链接&lt;/del>
 已征集完毕&lt;/p>
+&lt;/li>
+&lt;/ul>
 &lt;h3 id="2021811">2021.8.11&lt;/h3>
 &lt;ul>
 &lt;li>炸服活动圆满结束，感谢各位参与&lt;/li>
@@ -179,17 +189,21 @@
 &lt;li>末地死亡掉落 &lt;del>已经有 18 名玩家跳虚空了&lt;/del>&lt;/li>
 &lt;/ul>
 &lt;h3 id="2021724">2021.7.24&lt;/h3>
-&lt;p>添加了查看 TPS 的命令:&lt;br>
+&lt;ul>
+&lt;li>添加了查看 TPS 的命令:&lt;br>
 &lt;del>指令: 查看 TPS&amp;lt;显示为 TAB 栏&amp;gt; /tabtps toggle tab&lt;br>
 查看 TPS&amp;lt;显示为 Bossbar 栏&amp;gt; /tabtps toggle bossbar&lt;br>
 查看 TPS&amp;lt;显示为物品栏&amp;gt; /tabtps toggle actionbar&lt;/del>&lt;br>
-更换为carpet的tps显示/log tps开启&lt;/p>
+更换为carpet的tps显示/log tps开启&lt;/li>
+&lt;/ul>
 &lt;h3 id="2021719">2021.7.19&lt;/h3>
-&lt;p>为避免玩家过度拿取资源的情况，现公开所有成员背包信息&lt;br>
-指令: 查看背包 /view &amp;lt;玩家名&amp;gt;&lt;br>
-查看末影箱 /enderview &amp;lt;玩家名&amp;gt;&lt;br>
+&lt;ul>
+&lt;li>为避免玩家过度拿取资源的情况，现公开所有成员背包信息&lt;br>
+&lt;del>指令: 查看背包 /view &amp;lt;玩家名&amp;gt;&lt;br>
+查看末影箱 /enderview &amp;lt;玩家名&amp;gt;&lt;br>&lt;/del>
 仅管理员可查看&lt;br>
-服务器是公有制，没有必要藏东西&lt;/p>
+服务器是公有制，没有必要藏东西&lt;/li>
+&lt;/ul>
 &lt;h3 id="2021716">2021.7.16&lt;/h3>
 &lt;ul>
 &lt;li>添加了鞘翅的合成表&lt;/li>
@@ -215,6 +229,8 @@
 &lt;li>修复玩家进入地狱门/末地门卡死的问题&lt;/li>
 &lt;/ul>
 &lt;h3 id="2021713">2021.7.13&lt;/h3>
-&lt;p>现在服务器支持展示框编辑了&lt;br>
+&lt;ul>
+&lt;li>现在服务器支持展示框编辑了&lt;br>
 &lt;del>右键+shift&lt;/del> 空手点击物品展示框可设置展示框的属性(可见)&lt;br>
-改为左键+shift&lt;/p></description></item></channel></rss>
+改为左键+shift&lt;/li>
+&lt;/ul></description></item></channel></rss>
