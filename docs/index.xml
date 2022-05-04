@@ -46,9 +46,6 @@
 &lt;p>所有颜色的羊毛均可以被再次染色&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>可以坐在台阶上&lt;/p>
-&lt;/li>
-&lt;li>
 &lt;p>可以访问卫星地图获取玩家动向&lt;/p>
 &lt;/li>
 &lt;li>
@@ -58,10 +55,13 @@
 &lt;p>玩家死亡后会生成一个墓碑&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>镐子可以快速破坏玻璃 (carpet mod)&lt;/p>
+&lt;p>镐子可以快速破坏玻璃&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>可右键告示牌来编辑文字&lt;/p>
+&lt;p>蹲下+空手右键可以编辑告示牌&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>不蹲下+空手右键可以执行告示牌上指令（注：此告示牌需要以“/”开头）&lt;/p>
 &lt;/li>
 &lt;/ul></description></item><item><title>Docs: 信息</title><link>https://www.mctown.tech/docs/info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/info/</guid><description>
 &lt;ul>
