@@ -99,6 +99,18 @@
 &lt;p>Q:服务器视距低&lt;/p>
 &lt;p>A:资金限制，请视距低的玩家下载&lt;a href="https://www.modrinth.com/mod/bobby">bobby&lt;/a>模组提升视距&lt;/p>
 &lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://www.mctown.tech/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/changelog/</guid><description>
+&lt;h3 id="2022626">2022.6.26&lt;/h3>
+&lt;ul>
+&lt;li>启用了QQ聊天互通&lt;/li>
+&lt;/ul>
+&lt;h3 id="2022624">2022.6.24&lt;/h3>
+&lt;ul>
+&lt;li>添加了Simple Voice Chat&lt;/li>
+&lt;/ul>
+&lt;h3 id="2022621">2022.6.21&lt;/h3>
+&lt;ul>
+&lt;li>安装TimedQBM，自动备份间隔12小时&lt;/li>
+&lt;/ul>
 &lt;h3 id="202253">2022.5.3&lt;/h3>
 &lt;ul>
 &lt;li>添加了蹲下+空手右键可以编辑告示牌的功能&lt;/li>
@@ -106,7 +118,7 @@
 &lt;/ul>
 &lt;h3 id="2022321">2022.3.21&lt;/h3>
 &lt;ul>
-&lt;li>安装chat-bridge实现服务器聊天互通&lt;/li>
+&lt;li>安装ChatBridge实现服务器聊天互通&lt;/li>
 &lt;/ul>
 &lt;h3 id="2022311">2022.3.11&lt;/h3>
 &lt;ul>
