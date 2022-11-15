@@ -5,6 +5,12 @@ description: 更新日志
 weight: 50
 ---
 
+### 2022.11.15
+-升级服务器配置，并隐藏了端口
+-视距上升为12
+-服务器地址改为s.mctown.fun
+-安装共享投影模组 客户端模组下载链接 [原站](https://markdown.com.cn "原站") [备用]([https://markdown.com.cn ](https://mct-server.lanzoul.com/iFzUi0fyuidg)"备用")
+
 ### 2022.6.26
 - 启用了QQ聊天互通
 
