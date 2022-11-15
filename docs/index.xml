@@ -99,6 +99,11 @@
 &lt;p>Q:服务器视距低&lt;/p>
 &lt;p>A:资金限制，请视距低的玩家下载&lt;a href="https://www.modrinth.com/mod/bobby">bobby&lt;/a>模组提升视距&lt;/p>
 &lt;/blockquote></description></item><item><title>Docs: 更新日志</title><link>https://www.mctown.tech/docs/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/changelog/</guid><description>
+&lt;h3 id="20221115">2022.11.15&lt;/h3>
+&lt;p>-升级服务器配置，并隐藏了端口
+-视距上升为12
+-服务器地址改为s.mctown.fun
+-安装共享投影模组 客户端模组下载链接 &lt;a href="https://markdown.com.cn" title="原站">原站&lt;/a> [备用](&lt;a href="https://mct-server.lanzoul.com/iFzUi0fyuidg">https://markdown.com.cn &lt;/a>&amp;ldquo;备用&amp;rdquo;)&lt;/p>
 &lt;h3 id="2022626">2022.6.26&lt;/h3>
 &lt;ul>
 &lt;li>启用了QQ聊天互通&lt;/li>
