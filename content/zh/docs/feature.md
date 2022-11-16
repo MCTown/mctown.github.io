@@ -5,6 +5,8 @@ description: 服务器自定义特性
 weight: 2
 ---
 
+-装载Plasmo Voice模组后可在服务器内聊天
+
 - 潜声传感器可以被合成
 
 <img src="/sculk-sensor-recipe.png" alt="潜声传感器" width="200"/>
