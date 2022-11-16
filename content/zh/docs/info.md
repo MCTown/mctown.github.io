@@ -10,10 +10,10 @@ weight: 3
 - 创造服请自行使用`!!op`获取op权限
 
 #### URLs
-- 生存服: `s.mctown.tech:25565`
-- 生存服(BE): `s.mctown.tech:19132`
-- 生存服(Dynmap): [http://162.14.81.178:8123](http://162.14.81.178:8123)
-- 创造服: `c.mctown.tech:25565`
-- 创造服(BE): `c.mctown.tech:19132`
-- 创造服(Dynmap): [http://182.43.87.30:8123](http://182.43.87.30:8123)
-- 论坛: [https://f.mctown.tech/](https://f.mctown.tech/)
+- 生存服: `s.mctown.fun`
+- 生存服(BE): `s.mctown.fun 端口19132`
+- 生存服(Dynmap): [http://s.mctown.fun:8123](s.mctown.fun:8123)
+- 创造服: `c.mctown.fun`
+- 创造服(BE): `c.mctown.fun`
+- 创造服(Dynmap): [c.mctown.fun:8124](c.mctown.fun:8124)
+- 论坛: [https://f.mctown.fun/](废了)
