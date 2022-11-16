@@ -71,13 +71,13 @@
 &lt;/ul>
 &lt;h4 id="urls">URLs&lt;/h4>
 &lt;ul>
-&lt;li>生存服: &lt;code>s.mctown.tech:25565&lt;/code>&lt;/li>
-&lt;li>生存服(BE): &lt;code>s.mctown.tech:19132&lt;/code>&lt;/li>
-&lt;li>生存服(Dynmap): &lt;a href="http://162.14.81.178:8123">http://162.14.81.178:8123&lt;/a>&lt;/li>
-&lt;li>创造服: &lt;code>c.mctown.tech:25565&lt;/code>&lt;/li>
-&lt;li>创造服(BE): &lt;code>c.mctown.tech:19132&lt;/code>&lt;/li>
-&lt;li>创造服(Dynmap): &lt;a href="http://182.43.87.30:8123">http://182.43.87.30:8123&lt;/a>&lt;/li>
-&lt;li>论坛: &lt;a href="https://f.mctown.tech/">https://f.mctown.tech/&lt;/a>&lt;/li>
+&lt;li>生存服: &lt;code>s.mctown.fun&lt;/code>&lt;/li>
+&lt;li>生存服(BE): &lt;code>s.mctown.fun 端口19132&lt;/code>&lt;/li>
+&lt;li>生存服(Dynmap): &lt;a href="s.mctown.fun:8123">http://s.mctown.fun:8123&lt;/a>&lt;/li>
+&lt;li>创造服: &lt;code>c.mctown.fun&lt;/code>&lt;/li>
+&lt;li>创造服(BE): &lt;code>c.mctown.fun&lt;/code>&lt;/li>
+&lt;li>创造服(Dynmap): &lt;a href="c.mctown.fun:8124">c.mctown.fun:8124&lt;/a>&lt;/li>
+&lt;li>论坛: &lt;a href="%E5%BA%9F%E4%BA%86">https://f.mctown.fun/&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Docs: FAQ</title><link>https://www.mctown.tech/docs/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.mctown.tech/docs/faq/</guid><description>
 &lt;blockquote>
 &lt;p>Q:作为新人我无法融入服务器该怎么办？&lt;/p>
